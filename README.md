@@ -1,1 +1,1 @@
-# CSE-341-Project-1
+# cse-341-Project1

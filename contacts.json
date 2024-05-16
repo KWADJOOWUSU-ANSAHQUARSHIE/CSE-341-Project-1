@@ -1,0 +1,23 @@
+[
+ {
+    "firstName": "Osei",
+    "lastName": "Gbedemah",
+    "email": "kwadjoowusuansahquarshie@gmail.com",
+    "favoriteColor": "Pink",
+    "birthday": "9/5/2002"
+  },
+   {
+    "firstName": "Kwadjo",
+    "lastName": "Quarshie",
+    "email": "kushbastero@gmail.com",
+    "favoriteColor": "Black",
+    "birthday": "27/4/2006"
+  },
+   {
+    "firstName": "Bruno",
+    "lastName": "Edoh",
+    "email": "brunoEdoh@gmail.com",
+    "favoriteColor": "Yellow",
+    "birthday": "06/9/1997"
+  }
+]
